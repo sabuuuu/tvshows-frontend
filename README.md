@@ -28,6 +28,8 @@ Building the TV Show Search Platform involved tackling substantial amounts of da
 
 - Efficient Data Extraction: Dealing with a large amount of data required the development of efficient data extraction processes. This involved selecting and extracting relevant information to optimize the search functionality.
 ## Screenshots 
+![Home Page](https://github.com/sabuuuu/tvshows-frontend/blob/main/home.png)
+
 
 
 ## Contributing
