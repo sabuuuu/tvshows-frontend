@@ -30,8 +30,8 @@ Building the TV Show Search Platform involved tackling substantial amounts of da
 ## Screenshots 
 ![Home Page](https://github.com/sabuuuu/tvshows-frontend/blob/main/home.png)
 ![Search Page](https://github.com/sabuuuu/tvshows-frontend/blob/main/search.png)
-![About Page](https://github.com/sabuuuu/tvshows-frontend/blob/main/about.png).
-![About Page](https://github.com/sabuuuu/tvshows-frontend/blob/main/contact.png).
+![About Page](https://github.com/sabuuuu/tvshows-frontend/blob/main/about.png)
+![About Page](https://github.com/sabuuuu/tvshows-frontend/blob/main/contact.png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
